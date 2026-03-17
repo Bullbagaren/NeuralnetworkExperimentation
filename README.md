@@ -1,2 +1,2 @@
 # NeuralnetworkExperimentation-
-A weekend experimentation with neuralnetworks. 
+A weekend experimentation with neural networks. 
